@@ -2,7 +2,7 @@
 
 # Fetal Heart Rate Analysis System 🚀
 
-Welcome to the official repository of the **Fetal Heart Rate Analysis System**, a groundbreaking technology patented under the Indian Patent Office (Patent No. MjAxOTQxMDA3NzY1). This system represents a monumental leap in fetal monitoring, utilizing cloud computing and big data to deliver a solution that's not only 98% more cost-effective but also boasts an impressive 96% accuracy rate. 🎉
+Welcome to the official repository of the **Fetal Heart Rate Analysis System**, a groundbreaking technology patented under the Indian Patent Office ([Patent](https://iprsearch.ipindia.gov.in/RQStatus/PatentCertificatePDF.aspx?AppNo=MjAxOTQxMDA3NzY1&FullPath=LVBhdGVudENlcnRpZmljYXRlMjAtMDItMjAyNC5wZGY=)). This system represents a monumental leap in fetal monitoring, utilizing cloud computing and big data to deliver a solution that's not only 98% more cost-effective but also boasts an impressive 96% accuracy rate. 🎉
 
 ## About the Project 📖
 
